@@ -8,7 +8,7 @@ Documentation
 - [Authorization Guide](http://www.yiiframework.com/doc-2.0/guide-security-authorization.html). Important, read this first before you continue.
 - [Basic Usage](docs/guide/basic-usage.md).
 - [Using Menu](docs/guide/using-menu.md).
-- [Api](http://mdmsoft.github.io/yii2-admin/index.html)
+- [Api](http://max-dreamsoft.github.io/yii2-admin/index.html)
 
 Installation
 ------------
@@ -20,26 +20,26 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require mdmsoft/yii2-admin "~3.0"
+php composer.phar require max-dreamsoft/yii2-admin "~3.0"
 ```
 
 or for the dev-master
 
 ```
-php composer.phar require mdmsoft/yii2-admin "dev-3.master"
+php composer.phar require max-dreamsoft/yii2-admin "dev-3.master"
 ```
 
 Or, you may add
 
 ```
-"mdmsoft/yii2-admin": "~2.0"
+"max-dreamsoft/yii2-admin": "~2.0"
 ```
 
 to the require section of your `composer.json` file and execute `php composer.phar update`.
 
 ### Install From the Archive
 
-Download the latest release from here [releases](https://github.com/mdmsoft/yii2-admin/releases), then extract it to your project.
+Download the latest release from here [releases](https://github.com/max-dreamsoft/yii2-admin/releases), then extract it to your project.
 In your application config, add the path alias for this extension.
 
 ```php
